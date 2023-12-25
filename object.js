@@ -10,3 +10,4 @@ const anuj = {
 }
 console.log(anuj.Email);// try to leave this type of object to accesss the results
 console.log(anuj["Full Name"]);
+console.log(anuj["name"]);
